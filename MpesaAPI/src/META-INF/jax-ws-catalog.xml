@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://safaricom.co.ke/mpesa_online/lnmo_checkout_server.php?wsdl" uri="xml-resources/web-service-references/lnmo_checkout_server/wsdl/safaricom.co.ke/mpesa_online/lnmo_checkout_server.php.wsdl"/>
+</catalog>
